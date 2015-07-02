@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KIN_SANG</Machine>
+    <WindowsUser>kinsang</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4e0c26f5-75e2-4efc-9de8-448ce988adbf</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>170038F3ABBF2775682FCE2D2255EC280493B1368FD045789B18B328B9F168BF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4e0c26f5-75e2-4efc-9de8-448ce988adbf_1.0.0.0_neutral__2m0zv7mtwp1j8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4e0c26f5-75e2-4efc-9de8-448ce988adbf_2m0zv7mtwp1j8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4e0c26f5-75e2-4efc-9de8-448ce988adbf</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=liudaoan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-12T02:24:08.587</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\first.exe">
+      <PackagePath>first.exe</PackagePath>
+      <Modified>2015-05-13T08:47:27.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-08T03:17:46.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-08T03:17:46.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-08T03:17:46.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-08T03:17:46.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-12T02:24:06.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-12T02:24:06.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\first.xr.xml">
+      <PackagePath>first.xr.xml</PackagePath>
+      <Modified>2015-03-08T07:46:21.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-12T02:24:07.570</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

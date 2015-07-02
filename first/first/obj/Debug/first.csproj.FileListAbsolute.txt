@@ -1,0 +1,63 @@
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\bin\Debug\App.xbf
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\bin\Debug\MainPage.xbf
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\bin\Debug\first.exe
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\bin\Debug\first.pdb
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\bin\Debug\resources.pri
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\bin\Debug\AppxManifest.xml
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\bin\Debug\first.build.appxrecipe
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\App.g.i.cs
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\App.g.cs
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\MainPage.g.i.cs
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\MainPage.g.cs
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\XamlTypeInfo.g.cs
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\App.xaml
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\MainPage.xaml
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\App.xbf
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\MainPage.xbf
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\XamlSaveStateFile.xml
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\first.exe
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\first.pdb
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\priconfig.xml
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\priconfig.xml.intermediate
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\layout.resfiles
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\layout.resfiles.intermediate
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\resources.resfiles
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\resources.resfiles.intermediate
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\pri.resfiles
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\pri.resfiles.intermediate
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\qualifiers.txt
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\qualifiers.txt.intermediate
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\liudaoan\documents\visual studio 2013\Projects\first\first\obj\Debug\ProjectArchitectures.txt
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\App.xbf
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\MainPage.xbf
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\first.xr.xml
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\first.exe
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\first.pdb
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\resources.pri
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\AppxManifest.xml
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\bin\Debug\first.build.appxrecipe
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\App.g.i.cs
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\App.g.cs
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\MainPage.g.i.cs
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\MainPage.g.cs
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\App.xaml
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\MainPage.xaml
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\App.xbf
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\MainPage.xbf
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\XamlSaveStateFile.xml
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\first.exe
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\first.pdb
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\priconfig.xml
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\priconfig.xml.intermediate
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\layout.resfiles
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\layout.resfiles.intermediate
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\resources.resfiles
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\resources.resfiles.intermediate
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\pri.resfiles
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\pri.resfiles.intermediate
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\qualifiers.txt
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\qualifiers.txt.intermediate
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kinsang\Desktop\现代操作系统应用\homework1\13331038_程键生_hw1_v2\first\first\obj\Debug\ProjectArchitectures.txt
